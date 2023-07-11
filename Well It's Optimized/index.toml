@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "6cd0820286d9997f2b12f9ccbe9b4c3716254dc18f26780ec26334a3e6682135"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "7aeeb9d910abed6f4e1f4b2558ea5a617478e1aa779c250bf0e0f6218df30da4"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "271d5c282ddedc3c945cfe712830cff7b3e0187de7cd8b6a80b9b5ec2dd14d52"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "e80f3d14c784fb0e19e273181b32ad2aeb3160b060342522801e82f779e27396"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
 metafile = true
@@ -71,13 +91,28 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
@@ -104,3 +139,7 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "36775165f7a71d070cd012431e6ae8bc068199c786afb97d7546b6b0a9acafa9"

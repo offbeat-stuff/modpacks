@@ -1,0 +1,8 @@
+enableVsync:false
+darkMojangStudiosBackground:true
+gamma:1.0
+simulationDistance:5
+guiScale:2
+maxFps:60
+graphicsMode:0
+advancedItemTooltips:true
