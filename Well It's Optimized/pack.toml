@@ -1,0 +1,13 @@
+name = "Well Its Optimized"
+author = "ZenXArch"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3abc0cf4d3a86bdc84883cceb63aadf19a04d920b59593068fbc775b839ed926"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
