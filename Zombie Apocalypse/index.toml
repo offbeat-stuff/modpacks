@@ -233,3 +233,13 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "36775165f7a71d070cd012431e6ae8bc068199c786afb97d7546b6b0a9acafa9"
+
+[[files]]
+file = "resourcepacks/freshanimations.pw.toml"
+hash = "76af24afd7a58c7e8503ef3558b99e1d22a092a1cddef8e5a23d394d25e701ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tzp.pw.toml"
+hash = "3e25d60a0919dbc1bc4806558e07de9deedd8e9cef83977cacc9f11365b6dd76"
+metafile = true
