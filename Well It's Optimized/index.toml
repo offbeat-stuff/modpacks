@@ -13,6 +13,10 @@ file = "config/moreculling.toml"
 hash = "271d5c282ddedc3c945cfe712830cff7b3e0187de7cd8b6a80b9b5ec2dd14d52"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "6349ff86513738cca8cd39c8bbab6c88d3a59299f1cbccb0cf0556eda02e6b38"
+
+[[files]]
 file = "config/vmp.properties"
 hash = "e80f3d14c784fb0e19e273181b32ad2aeb3160b060342522801e82f779e27396"
 
