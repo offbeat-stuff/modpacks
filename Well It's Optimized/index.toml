@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "6cd0820286d9997f2b12f9ccbe9b4c3716254dc18f26780ec26334a3e6682135"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
