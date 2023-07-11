@@ -5,9 +5,9 @@ But rather tries to have stable gameplay.
 Currently It does not include much work.Just some basic config editing with some personal preferences.
 But it should be good to go.
 
-Use (This website)[https://jamie.codeberg.page/mrpack-to-zip/@master/] for converting mrpacks into zips that includes all the mods.
+Use [This website](https://jamie.codeberg.page/mrpack-to-zip/@master/) for converting mrpacks into zips that includes all the mods.
 
-Use (These patches)[https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4/config] for running on pojav. Dont worry these should work regardless of the minecraft version.
+Use [These patches](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4/config) for running on pojav. Dont worry these should work regardless of the minecraft version.
 
 ### Included Mods
 
