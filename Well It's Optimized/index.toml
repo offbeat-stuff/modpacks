@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "c3b287a9f89439cb421ad4cdaae3657c04056f213491b467d7a34012e3ae3ca4"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "7aeeb9d910abed6f4e1f4b2558ea5a617478e1aa779c250bf0e0f6218df30da4"
+hash = "0b15e65ac4701553230f26bdbff82f4fc3214ef734e0c4a66ba9b27d8e17bbb8"
 
 [[files]]
 file = "config/moreculling.toml"
