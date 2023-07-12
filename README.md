@@ -9,20 +9,28 @@ Use [This website](https://jamie.codeberg.page/mrpack-to-zip/@master/) for conve
 
 Use [These patches](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4/config) for running on pojav. Dont worry these should work regardless of the minecraft version.
 
+This modpack can maintain 30 fps at 42 render distance when looking at all the chunks.
+and 60 fps comfortably while just running around.
+This modpack uses 1500 mb ram with 800 mb overhead for running at 42 chunks.
+Note: This would probably freeze if you went straight into a 42 rd world. I eased slowly into 42 rd starting from 5 rd.
+Here is the spark profile: https://spark.lucko.me/UmF6jkcfSb
+
 ### Included Mods
 
 #### Most effective optimization mods
 - Sodium
 - Lithium
-- FerriteCore
 - ImmediatelyFast
 - Entity Culling
 - Enhanced Block Entities
 - More Culling
 
+#### Memory Usage Optimizations
+- FerriteCore
+- ModernFix
+
 #### Semi effective optimization Mods
 - Krypton
-- ModernFix
 - FeyTweaks
 
 #### Minor Optimization mods
