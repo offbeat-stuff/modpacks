@@ -17,6 +17,8 @@ gen_mrpack () {
 cp -r config temp
 mkdir temp/mods
 
+cp quilt-base/pack.toml temp/
+
 copy_mods quilt-base
 copy_mods perf-base
 
