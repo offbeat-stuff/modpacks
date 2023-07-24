@@ -25,6 +25,3 @@ copy_mods quilt-base
 copy_mods perf-base
 
 gen_mrpack quilt
-
-copy_mods exp-perf-base
-gen_mrpack quilt-exp
