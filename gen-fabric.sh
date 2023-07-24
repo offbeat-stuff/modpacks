@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf temp/
+
 copy_mods () {
   cp $1/mods/*.pw.toml temp/mods
 }
@@ -21,6 +23,3 @@ copy_mods fabric-base
 copy_mods perf-base
 
 gen_mrpack fabric
-
-copy_mods exp-perf-base
-gen_mrpack fabric-exp

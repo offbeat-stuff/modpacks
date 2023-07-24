@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf temp/
+
 copy_mods () {
   cp $1/mods/*.pw.toml temp/mods
 }
