@@ -1,13 +1,13 @@
 name = "Zombie Apocalypse"
-filename = "zombie_apocalypse-0.2.6.jar"
+filename = "zombie_apocalypse-0.2.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q1KtvmCe/versions/Lk0y0rSH/zombie_apocalypse-0.2.6.jar"
+url = "https://cdn.modrinth.com/data/Q1KtvmCe/versions/lOg16TjM/zombie_apocalypse-0.2.9.jar"
 hash-format = "sha1"
-hash = "a4e3b0bfa4971729a09d87ccbebfe01971b6610d"
+hash = "7fa84e1dd83d940443af3fdb96da3a009f81d477"
 
 [update]
 [update.modrinth]
 mod-id = "Q1KtvmCe"
-version = "Lk0y0rSH"
+version = "lOg16TjM"

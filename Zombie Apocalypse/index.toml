@@ -27,17 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/client-commands.pw.toml"
-hash = "fbde69d3092af1adae67d9301f4ee0253cd0f8b041be24f8a7deb19cf44ddee2"
+hash = "56750bb1819fafa3b6ef69bad4d06a6db8622dffc10fcc4a6094bbf032d9b440"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "af2b679c2e784b72c56a825f546f2947d3d17a970a1f411cb0c95ec90e0ca77a"
+hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "863056c04951715f2559fb852671a5790bfc61503416bfaa253f98b7cdecd8ce"
+hash = "f682207a7af256743d24088b8f50e3790e636cfaaecc735467e8edd69647f2cd"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombie-apocalypse.pw.toml"
-hash = "b5630ab02c2cf6751e9219c6049f2c2d73b9857055f1678dc0b210898721f54d"
+hash = "47767820e40dfdd391a4dfabe2c90af7e494aeb04af1fe6a9b53871cc9cacb84"
 metafile = true
 
 [[files]]
