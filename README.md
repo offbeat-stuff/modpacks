@@ -1,60 +1,61 @@
 ## Well It's Optimized
 
-This modpack does not try to give the most amount of fps possible.
-But rather tries to have stable gameplay.
-Currently It does not include much work.Just some basic config editing with some personal preferences.
-But it should be good to go.
+### Vision
 
-Use [This website](https://jamie.codeberg.page/mrpack-to-zip/@master/) for converting mrpacks into zips that includes all the mods.
+This modpack prioritizes a balanced gameplay experience over chasing the highest FPS. It enables aggressive gameplay without overburdening your device.
 
-Use [These patches](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4/config) for running on pojav. Dont worry these should work regardless of the minecraft version.
+Currently It does not include much of anything you wont find in other modpacks (expect for some mods that are disabled by default to give more performance in return of less visuals). 
 
-This modpack can maintain 30 fps at 42 render distance when looking at all the chunks.
-and 60 fps comfortably while just running around.
-This modpack uses 1500 mb ram with 800 mb overhead for running at 42 chunks.
+Some optimizations require certain hardware like the nvidium mod with requires a newer nvidia gpu.
+All and all this should be plenty for running minecraft at 60 fps with 16 render distance.
+
+### Installation
+For smartphone user, [this website](https://jamie.codeberg.page/mrpack-to-zip/@master/) can be used converting mrpack (the file available to download on this page) into zips that includes all the mods and can be extracted into pojav directory and be used with a custom path.
+Also can be useful for vanilla launcher.
+
+### Holy gl4es users
+For  now, [These patches](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4/config) from Fabulously Optimized can be used to disable a critical optimization in sodium that is not supported by gl4es. Dont worry about the version It works on any version of sodium.
+
+## Performance
+This modpack can maintain 30 fps at 42 render distance when looking at all the chunks without nvidium/any sheninigans on my GTX 1650 Ti.
+Actually 60 fps if you are not planning to stare at the whole wide world.
+For memory usage, it used 1500 mb ram with 800 mb overhead for running at 42 chunks.
 Note: This would probably freeze if you went straight into a 42 rd world. I eased slowly into 42 rd starting from 5 rd.
-Here is the spark profile: https://spark.lucko.me/UmF6jkcfSb
+Here is the spark profile for 42 rd: https://spark.lucko.me/UmF6jkcfSb
 
-### Included Mods
+## Note
+Methane and Feytweaks are disabled by default because they alter vanilla behaviour for performance or are experimental. Pojav players are recommended to turn these on.
 
-#### Most effective optimization mods
-- Sodium
-- Lithium
-- ImmediatelyFast
-- Entity Culling
-- Enhanced Block Entities
-- More Culling
 
-#### Memory Usage Optimizations
-- FerriteCore
-- ModernFix
+Pojav players are also required to delete nvidium as it currently crashes on pojav.
 
-#### Semi effective optimization Mods
-- Krypton
-- FeyTweaks
+<details markdown='1'><summary>Included mods</summary>
 
-#### Minor Optimization mods
-- Starlight (Fabric) -> Really minor but why not.
-
-#### Alpha Optimization mods (prone to bugs)
 - Very Many Players (Fabric)
-- Concurrent Chunk Management Engine (Fabric)
-
-#### Qol optimizations
-- Dynamic FPS
-- Language Reload
-- Raknetify (can handle bad connections but required on the server)
-
-#### Fixes
-- Memory Leak Fix
-- Indium
-- ToolTipFix
-
-#### Libraries
+- Starlight (Fabric)
+- Entity Culling
+- Exordium
+- MixinTrace
 - Cloth Config API
-- Fabric API
+- Indium
+- Krypton
+- Methane
+- Mod Menu
+- No Chat Reports
+- FerriteCore
+- Memory Leak Fix
+- More Culling
+- Raknetify
+- Concurrent Chunk Management Engine (Fabric)
+- ImmediatelyFast
+- ModernFix
+- Dynamic FPS
+- FeyTweaks
+- Language Reload
+- nvidium
+- Fabric Api
+- Sodium
+- Enhanced Block Entities
+- Lithium
 
-#### Other Mods
-- MixinTrace (Better error reports)
-- Mod Menu (Well its a good mod)
-- No Chat Reports (Well chat reporting and encrypted messaging)
+</details>
