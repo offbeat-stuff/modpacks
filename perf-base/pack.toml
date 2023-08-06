@@ -1,12 +1,12 @@
 name = "Well Its Optimized"
 author = "ZenXArch"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b779bc40dc4a240446a113194759172891848030d2bfdd66a84ccfd9e44fe783"
+hash = "c8af8f6a88bf3f244eb9d9c6151b3753bfef7d3d41f231f3551b4232414f3720"
 
 [versions]
 fabric = "0.14.21"
