@@ -24,7 +24,7 @@ cp -r config temp
 mkdir temp/mods
 mkdir temp/resourcepacks
 
-cp quilt-base/pack.toml temp/
+cp zombie-base/pack.toml temp/
 
 copy_mods fabric-base
 copy_mods perf-base
