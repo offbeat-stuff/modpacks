@@ -26,8 +26,7 @@ mkdir temp/resourcepacks
 
 cp zombie-base/pack.toml temp/
 
-echo "resourcePacks:["vanilla","fabric","file/TZP_1.19.2_2.6.zip","file/FreshAnimations_v1.8.1.zip"]" >> temp/options.txt
-echo "incompatibleResourcePacks:["file/TZP_1.19.2_2.6.zip","file/FreshAnimations_v1.8.1.zip"]" >> temp/options.txt
+cat zombie-base/options.txt >> temp/options.txt
 
 copy_mods fabric-base
 copy_mods perf-base
