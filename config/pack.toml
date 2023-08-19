@@ -1,6 +1,6 @@
 name = "Well Its Optimized"
 author = "ZenXArch"
-version = "1.0.12"
+version = "1.0.13"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "c8af8f6a88bf3f244eb9d9c6151b3753bfef7d3d41f231f3551b4232414f3720"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.22"
 minecraft = "1.20.1"

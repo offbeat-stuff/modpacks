@@ -1,6 +1,6 @@
 name = "Zombie Apocalypse"
 author = "ZenXArch"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "a1ffa7eb758b8360ec2dc91b55a2959960c483e7952d6c456530479a778d5662"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.22"
 minecraft = "1.20.1"
