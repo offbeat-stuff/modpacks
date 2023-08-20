@@ -1,2 +1,2 @@
-resourcePacks:["vanilla","fabric","file/TZP_1.19.2_2.6.zip","file/FreshAnimations_v1.8.1.zip"]
-incompatibleResourcePacks:["file/TZP_1.19.2_2.6.zip","file/FreshAnimations_v1.8.1.zip"]
+resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.8.1.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip"]
